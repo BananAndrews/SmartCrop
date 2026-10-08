@@ -2,6 +2,8 @@
 
 **Synchronized automatic crop of registered master frames.**
 
+![SmartCrop window: M82, H + RGB masters, rotated crop keeps 87.3% of the frame](screenshot.png)
+
 Open your registered masters (L, R, G, B, Ha, OIII, SII… or OSC), tick them in the list and press **Crop**. SmartCrop:
 
 1. finds on every image the area without data (black borders left by registration and rotation) and the noisy stacking edges next to it — areas covered by fewer subframes, detected by the local noise level, so gradients and vignetting are not mistaken for defects;
