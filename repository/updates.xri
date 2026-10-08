@@ -4,10 +4,10 @@
       <p>SmartCrop - synchronized automatic crop of registered master frames (black borders, noisy stacking edges, optional rotated crop).</p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.99">
-      <package fileName="SmartCrop-1.0.3-20261008.zip" sha1="f94a4cf3a7efd22983aba2eda52bc1c00dbdd513" type="script" releaseDate="20261008">
-         <title>SmartCrop 1.0.3</title>
+      <package fileName="SmartCrop-1.0.4-20261008.zip" sha1="a9e6ed1a4d3d9945eeff359352ce29c6e6826b20" type="script" releaseDate="20261008">
+         <title>SmartCrop 1.0.4</title>
          <description>
-            <p>Fix: analysis failed at the verification step (ColorSpace is not defined).</p>
+            <p>Readable preview (stretched image, unusable area in red, crop outline in yellow; closed on Crop); asks before re-cropping already cropped images; edges no longer erode on repeated runs.</p>
             <p>After installation the script is available as Script &gt; Utilities &gt; SmartCrop.</p>
          </description>
       </package>
