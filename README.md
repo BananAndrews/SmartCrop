@@ -9,7 +9,7 @@ Open your registered masters (L, R, G, B, Ha, OIII, SII… or OSC), tick them in
 3. finds the largest rectangle inside it — rotated, if that keeps noticeably more of the field;
 4. crops (and rotates, if needed) every selected image identically, so they stay registered to each other.
 
-Every crop is a normal undoable step (Ctrl+Z). Before touching your images SmartCrop dry-runs the crop on the combined mask and refuses to proceed if a single bad pixel would remain.
+After **Analyze** the window shows a preview of the most limiting image: unusable area in red, the crop frame in yellow (mouse wheel zooms, drag pans, double click fits). Every crop is a normal undoable step (Ctrl+Z). Before touching your images SmartCrop dry-runs the crop on the combined mask and refuses to proceed if a single bad pixel would remain.
 
 ## Installation
 
@@ -32,7 +32,6 @@ New versions arrive through **Check for Updates** automatically. PixInsight 1.8.
 | Allow rotated crop | on | rotate the crop when that keeps more of the field |
 | Max rotation angle | 10° | largest rotation tried |
 | Min area gain | 2 % | rotate only if the rotated crop is at least this much larger (rotation resamples the images) |
-| Show analysis preview image | off | opens an image with the unusable area and the crop outline |
 
 All selected images must have the same dimensions (registered to one reference). An existing astrometric solution is removed after cropping — plate-solve again afterwards.
 
@@ -57,7 +56,7 @@ Free to use; all rights reserved. Modification and redistribution of modified ve
 3. находит в ней максимальный прямоугольник — повёрнутый, если так сохраняется заметно больше поля;
 4. одинаково обрезает (и при необходимости поворачивает) все выбранные кадры, совмещение между ними сохраняется.
 
-Любой кроп отменяется через Ctrl+Z. Перед изменением кадров SmartCrop проверяет кроп на общей маске и не продолжит, если в кадр попадёт хоть один плохой пиксель.
+После **Analyze** в окне скрипта видно превью: непригодная область красная, рамка кропа жёлтая (колесо мыши — масштаб, перетаскивание — сдвиг, двойной клик — вписать). Любой кроп отменяется через Ctrl+Z. Перед изменением кадров SmartCrop проверяет кроп на общей маске и не продолжит, если в кадр попадёт хоть один плохой пиксель.
 
 ## Установка
 
