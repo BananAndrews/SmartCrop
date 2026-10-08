@@ -4,10 +4,10 @@
       <p>SmartCrop - synchronized automatic crop of registered master frames (black borders, noisy stacking edges, optional rotated crop).</p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.99">
-      <package fileName="SmartCrop-1.0.1-20261008.zip" sha1="887a9e93978ee2c57b7aad7dde329542a940249c" type="script" releaseDate="20261008">
-         <title>SmartCrop 1.0.1</title>
+      <package fileName="SmartCrop-1.0.2-20261008.zip" sha1="f6b9c6caac9de52232717b2e18ae494c54a7c497" type="script" releaseDate="20261008">
+         <title>SmartCrop 1.0.2</title>
          <description>
-            <p>Fix: the script failed to start (Dialog.Set(): integer value expected).</p>
+            <p>Fix: analysis failed (m.fill is not a function); the image list showed already closed images.</p>
             <p>After installation the script is available as Script &gt; Utilities &gt; SmartCrop.</p>
          </description>
       </package>
