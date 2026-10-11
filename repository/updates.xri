@@ -4,10 +4,10 @@
       <p>SmartCrop - synchronized automatic crop of registered master frames (black borders, noisy stacking edges, optional rotated crop).</p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.99">
-      <package fileName="SmartCrop-1.2.1-20261009.zip" sha1="11da2c8a46600fb46ea0b516cdd4f0865c025250" type="script" releaseDate="20261009">
-         <title>SmartCrop 1.2.1</title>
+      <package fileName="SmartCrop-1.2.2-20261011.zip" sha1="15e2f26e1bcd74819b0eb63a1ba3359f6af9bccf" type="script" releaseDate="20261011">
+         <title>SmartCrop 1.2.2</title>
          <description>
-            <p>Registration of unregistered masters (by stars, or by astrometric solutions as a fallback; the reference is chosen automatically). The crop is searched at any angle (no 10-degree limit). Preview inside the script window.</p>
+            <p>More ways to support the author.</p>
             <p>After installation the script is available as Script &gt; Utilities &gt; SmartCrop.</p>
          </description>
       </package>

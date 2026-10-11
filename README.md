@@ -41,7 +41,7 @@ Registered images must have the same dimensions; unregistered ones may differ in
 
 ## Support
 
-SmartCrop is free. If it helped you — **[♥ support the author via PayPal](https://www.paypal.com/donate/?business=contact%40bluebelleweddings.com&no_recurring=0&item_name=SmartCrop)** (the same heart is in the script window).
+SmartCrop is free. If it helped you — **[♥ support the author via PayPal](https://www.paypal.com/donate/?business=contact%40bluebelleweddings.com&no_recurring=0&item_name=SmartCrop)** (the same heart is in the script window, where you can also pay by card).
 
 ## License
 
@@ -77,7 +77,7 @@ Free to use; all rights reserved. Modification and redistribution of modified ve
 
 ## Поддержка
 
-SmartCrop бесплатный. Если он вам помог — **[♥ поддержать автора через PayPal](https://www.paypal.com/donate/?business=contact%40bluebelleweddings.com&no_recurring=0&item_name=SmartCrop)** (такое же сердечко есть в окне скрипта).
+SmartCrop бесплатный. Если он вам помог — **[♥ поддержать автора через PayPal](https://www.paypal.com/donate/?business=contact%40bluebelleweddings.com&no_recurring=0&item_name=SmartCrop)** (такое же сердечко есть в окне скрипта — там можно поддержать и картой).
 
 ## Лицензия
 
